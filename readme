@@ -45,12 +45,13 @@ for must install
 #
 # cd /to/where/you/work
 # git init
-# git add something
-# git config --global user.email "your@mail.com"
+
+# git config --global user.email "your@mail"
 # git config --global user.name  "yourname"
-# git commit -m "commit"
-# git remote add origin git@github.com:<your responed>
-# git push -u origin master
+# git add Something                                                // everytime Anychange DOIT
+# git remote add origin git@github.com:<your responed.git>         //JUST add new file DOIT
+# git commit -m  "commit"                                           //before push DOIT  
+# git push -u origin master                                        //every time you want to push DOIT
 #
 #
 #
