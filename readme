@@ -1,0 +1,56 @@
+# evernment 
+# Anaconda that for python
+# Vim
+#ctags youcomplicateme YCM
+#tensorflow
+#numpy
+#matplotlib
+#pydcm
+#Scipy
+#
+#####################################################################################################
+                                            Anaconda
+######################################################################################################
+#first download about 500M from www.anaconda.com/download/#linux
+#source ~/.bashrc // so the PATH can work now !or restart .bashrc everytime you run the Temminal it will work 
+# chomd 777 && ./??.sh  //for install chomd is nessary!!!
+#conda install package_name=version // for install package_name
+#conda remove package_name   //for remove
+#conda list //for list
+#conda install nb_conda // for notebook evernment in conda
+#conda create -n env_name package_name  //for build up a env with package_name
+#conda create -n py2 python=2
+#conda create -n py4 python=4
+#conda create -n py3 python=3
+#source env_name   // active the evn
+#conda env export > ebvironment.yaml
+#conda evn update -f=/path/to/your/evironment.yaml
+#######################################################################################################
+for must install 
+######################################################################################################
+#vim pip jupyter ctags 
+#
+#
+#
+#
+#
+#
+#
+##################################################################################################### # # ##################################################################################################### # #
+#                   GIT
+##################################################################################################### # # ##################################################################################################### #
+#  ssh-keygen -t rsa -C "my@mail.com"
+# add to the service of git ssh  
+# ssh git@github.com // you can see if you can connect the service
+#
+# cd /to/where/you/work
+# git init
+# git add something
+# git config --global user.email "your@mail.com"
+# git config --global user.name  "yourname"
+# git commit -m "commit"
+# git remote add origin git@github.com:<your responed>
+# git push -u origin master
+#
+#
+#
