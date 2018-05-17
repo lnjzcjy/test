@@ -54,4 +54,10 @@ for must install
 # git push -u origin master                                        //every time you want to push DOIT
 #
 #from laptop
-#
+#########################################################################################################
+# ssh-keygen -t rsa -C "email@your.com"
+# update another machine key 
+# git add sometihing                                                 // to local resp
+#git commit -m "lable"
+#git push -u origin master 					   // push
+# git pull                                                           // get something new
