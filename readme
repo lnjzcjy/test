@@ -61,4 +61,7 @@ for must install
 #git commit -m "lable"
 #git push -u origin master 					   // push
 # git pull                                                           // get something new
+# git stash                                                          // you can reroll your record to last comment
+#     comment  means  put something in the local repo
+#     you must work as comment steps eg. pull must be operated when the comment point is avaide from remote repo
 #########################################################################################################
