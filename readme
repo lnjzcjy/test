@@ -65,3 +65,6 @@ for must install
 #     comment  means  put something in the local repo
 #     you must work as comment steps eg. pull must be operated when the comment point is avaide from remote repo
 #########################################################################################################
+#   something about the linux
+#   cd to where you want the link want to be 
+#   ln -s /where/you/want/go/to                             //              that is the  soft link    
