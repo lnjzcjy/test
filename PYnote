@@ -12,4 +12,100 @@ mpl.plot(X,y,'b.')      # that means plot X cross y with blue .  also r- g*
 lin_reg.fit(X,y)
 lin_reg.intercept_
 lin_reg.coef_
+
 lin_predict(some_number)
+#################################for fun#######################################################
+
+import turtle                    // the draw tool named from who invent computer
+window = turtle.Screen()        
+babbage = turtle.Turtle()
+babbage.left(90)
+babbage.forward(100)
+babbage.circle(10)
+#babbage.exitonclick()
+#babbage.right(90)
+
+# draw the first petal
+babbage.left(15)
+babbage.forward(50)
+babbage.left(157)
+babbage.forward(50)
+
+babbage.left(15)
+babbage.forward(50)
+babbage.left(157)
+babbage.forward(50)
+
+
+
+window.exitonclick()           
+
+#################################for fun#######################################################
+how to use for 
+for i in range(1,24):
+	babbage.left(15)
+	babbage.forward(50)
+        babbage.left(157)
+        babbage.forward(50)
+window.exitonclick()
+#   
+#    HOW TO DEFINE FOR  IF   FUNCTION
+#
+#    for i in rang(1,24):
+#    	stati block
+#
+    if condition :
+#    	do what
+#    eles:
+#    	do what
+
+#    def function_name(argvs):
+#    	return sometings
+
+#some tuple and list 
+     list_1 = [1,2,3,4]
+     tuple_1 = (1,2,3,4)
+     index it use 
+     list_1[1]
+     tuple_[2]
+     tuple_2 = [[a,b,c],[d,e,f],[g,h,i]]
+     tuple_2[2][1] == h                     //that will return ture
+     >>>tuple_2[2][1] 
+     >>>h
+# there are some function with the class  
+#    append(item),extend(list_2),insert(item),sort(),index(item),count(item),remove(item)
+# guess = int(input("input something: "))  //with some promte input something
+# how to use TRY  page38 50/233 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
