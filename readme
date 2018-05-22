@@ -1,4 +1,5 @@
 # evernment 
+# www.cnblogs.com/archisama/
 www.imooc.com/video/10694
 # Anaconda that for python
 # Vim
@@ -69,3 +70,21 @@ for must install
 #   something about the linux
 #   cd to where you want the link want to be 
 #   ln -s /where/you/want/go/to                             //              that is the  soft link    
+
+
+
+#####################   PyQt4     ######################################
+#   before you use PyQt4 you must install it
+#   first sip www.riverbankcomputing.com/software/sip/download
+#   install sip  
+#       python configure.py        /// you can get  makefile  
+#       make
+#       make install
+#       sip -h                  /// that can show if you install sip
+#   install PyQt4       
+#       sourceforge.net/projects/pyqt/.........   /// get the package
+#       python configure.py
+#       make
+#       makeinstall
+#
+#
